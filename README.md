@@ -1,6 +1,11 @@
 ###  Fala ai galera!! Eu sou o Marcos Abreu
 
-- 🌱 Estudando C# e JavaScript
+- 🌱 Estudando
+
+         HTML, CSS
+         C# 
+         JavaScript
+         JS Node
 
 <div>
   <a href="https://github.com/omarcosabreu">
