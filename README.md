@@ -10,7 +10,7 @@ I'm Brazilian (🇧🇷). I study Front-End Development since 2022 (I also plan 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omarcossabreu&bg_color=0f0d12&color=2eb4d6&line=004cff&point=004cff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <div>
-  <a href="https://github.com/omarcossabreu">
+  <a href="https://github.com/omarcosabreu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?
     username=omarcossabreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
