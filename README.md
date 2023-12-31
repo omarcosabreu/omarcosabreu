@@ -4,15 +4,15 @@ Hey guys 👋 I'm Marcos Abreu, nice to have you on my profile! <img src="https:
 I'm Brazilian (🇧🇷). I study Front-End Development since 2022 (I also plan to study Back-End). I currently work with Quality Assurance at Edesoft
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=omarcossabreu&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=&text_color=c9d1d9&bg_color=0d1117" alt="Marcos Abreu github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcossabreu&layout=compact&hide_border=true&title_color=&text_color=&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=omarcosabreu&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=&text_color=c9d1d9&bg_color=0d1117" alt="Marcos Abreu github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcosabreu&layout=compact&hide_border=true&title_color=&text_color=&bg_color=0d1117" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omarcossabreu&bg_color=0f0d12&color=2eb4d6&line=004cff&point=004cff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omarcosabreu&bg_color=0f0d12&color=2eb4d6&line=004cff&point=004cff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <div>
   <a href="https://github.com/omarcosabreu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?
-    username=omarcossabreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    username=omarcosabreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 Would you like to meet me?
