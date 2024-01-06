@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#500178&height=120&section=header"/>
 Hey guys 👋 I'm Marcos Abreu, nice to have you on my profile! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-I'm Brazilian (🇧🇷). I study Front-End Development since 2022 (I also plan to study Back-End). I currently work with Quality Assurance at Edesoft
+I'm Brazilian (🇧🇷). I have been studying Front-End Development since 2022 and will start studying Python (2024). I currently work with Quality Assurance at Edesoft doing manual testing and also automating tests with Robot Framework.
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=omarcosabreu&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=&text_color=c9d1d9&bg_color=0d1117" alt="Marcos Abreu github stats" /> 
