@@ -5,7 +5,7 @@ I'm Brazilian (🇧🇷). I have been studying Front-End Development since 2022 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=omarcosabreu&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=&text_color=c9d1d9&bg_color=0d1117" alt="Marcos Abreu github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcosabreu&layout=compact&hide_border=true&title_color=&text_color=&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcosabreu&layout=compact&hide_border=true&title_color=&text_color=&bg_color=0d1117"/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omarcosabreu&bg_color=0f0d12&color=2eb4d6&line=004cff&point=004cff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
